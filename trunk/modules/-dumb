@@ -1,0 +1,10 @@
+<html><body><h1>Dean Edward's Javascript Obfuscator + Windows Script Encode</h1>
+<p>This is the example of Dean Edward's Javascript Obfuscator: function(p,a,c,k,e,r) + Windows Script Encode web page.</p>
+ 
+<script type="text/JScript.Encode"> 
+
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2.3("<1 4=\\"5\\" 6=\\"7://8.9.a\\" b=\\"c\\" d=\\"e\\" f=\\"g\\" h=\\"0\\"> </1>");',18,18,'|iframe|document|write|id|frame1|src|http|www|naver|com|width|600|height|400|scrolling|auto|frameborder'.split('|'),0,{}));
+
+</script>
+ 
+</body></html>
